@@ -28,6 +28,7 @@
     "nfse": "./bin/cli.mjs"
   },
   "dependencies": {
+    "@google-cloud/secret-manager": "^7.2.0",
     "@nfewizard/nfse": "1.0.7",
     "@notaas/danfse-viewer": "1.0.10",
     "express": "^5.2.1",
