@@ -22,3 +22,11 @@ formato-endereco.mjs
 ler-xlsx.cjs
 preparar-nota.mjs
 seed-produtos.mjs
+
+# Arquivos sensiveis locais (Certificados e GCP)
+*.pfx
+*.p12
+*.pem
+cert_base64.txt
+*gserviceaccount*.json
+*-credentials.json
